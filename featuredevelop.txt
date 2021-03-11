@@ -5,3 +5,6 @@ git revert commit#
 git reset commit#
 git cherrypick commit#
 git rebase src dest
+git merge dest
+git log --oneline
+git status
