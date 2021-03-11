@@ -1,3 +1,4 @@
 git pull
 git stash apply
 git push origin branch
+git revert commit# 
