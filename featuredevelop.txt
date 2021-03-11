@@ -3,3 +3,4 @@ git stash apply
 git push origin branch
 git revert commit# 
 git reset commit#
+git cherrypick commit#
